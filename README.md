@@ -1,11 +1,11 @@
 ### ⛩ Olá, Eu sou o Matheus Victor!
 
-<div>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MatVicDev&show_icons=true&theme=github_dark&locale=pt-br">
+<div style="display: inline-block">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MatVicDev&show_icons=true&theme=github_dark&locale=pt-br">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatVicDev&theme=github_dark&layout=compact&locale=pt-br">
 </div>
-<div>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatVicDev&theme=github_dark&layout=compact&locale=pt-br">
-</div>
+
+<br>
 
 <div style="display: inline-block">
   <img align="center" alt="HTML" width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
