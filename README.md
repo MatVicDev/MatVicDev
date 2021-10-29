@@ -1,8 +1,8 @@
 ### ⛩ Olá, Eu sou o Matheus Victor!
 
 <div style="display: inline-block">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MatVicDev&show_icons=true&theme=github_dark&locale=pt-br">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatVicDev&theme=github_dark&layout=compact&locale=pt-br">
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=MatVicDev&show_icons=true&theme=github_dark&locale=pt-br">
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatVicDev&theme=github_dark&layout=compact&locale=pt-br">
 </div>
 
 <br>
