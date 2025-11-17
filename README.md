@@ -1,4 +1,4 @@
-### ⛩ Olá, Eu sou o Matheus Victor!
+### ⛩ Olá, eu sou o Matheus Victor!
 
 <div style="display: inline-block">
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=MatVicDev&show_icons=true&theme=github_dark&locale=pt-br">
