@@ -1,7 +1,7 @@
 ### ⛩ Olá, eu sou o Matheus Victor!
 
 <div style="display: inline-block">
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=MatVicDev&show_icons=true&theme=github_dark&locale=pt-br">
+  <img align="center" height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatVicDev&theme=github_dark&exclude={exclude}">
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatVicDev&theme=github_dark&layout=compact&locale=pt-br">
 </div>
 
