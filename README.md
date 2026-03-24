@@ -1,5 +1,11 @@
 ### ⛩ Olá, eu sou o Matheus Victor!
 
+📞 (42) 99900-8501  
+📍 Curitiba - PR  
+📧 matheusvic013@gmail.com  
+📷 m.victor81  
+🟦 www.linkedin.com/in/matvicdev
+
 <div style="display: inline-block">
   <img align="center" height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatVicDev&theme=github_dark&layout=compact&locale=pt-br">
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatVicDev&theme=github_dark&layout=compact&locale=pt-br">
